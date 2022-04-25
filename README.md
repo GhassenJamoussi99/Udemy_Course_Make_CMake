@@ -1,7 +1,6 @@
 
-## Dieser Kurs besteht aus folgenden Themengebieten
+## This Udemy course consists of the following topics
 
-☑️ Installation der Software für Windows und Linux  
 ☑️ Makefile Tutorial  
 ☑️ CMake Tutorial  
 ☑️ Doxygen Dokumentation  
